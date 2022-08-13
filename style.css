@@ -28,7 +28,7 @@ svg {
 
 .wrapper {
   padding: 20px;
-  max-width: 350px;
+  width: 350px;
   position: absolute;
   top: 5%;
   left: 50%;
