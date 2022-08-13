@@ -28,7 +28,7 @@ svg {
 
 .wrapper {
   padding: 20px;
-  width: 350px;
+  width: 30%;
   position: absolute;
   top: 5%;
   left: 50%;
@@ -97,15 +97,10 @@ h2 {
 }
 
 @media screen and (max-width:590px) {
-  .wrapper {
-    padding: 20px;
-    width: 90%;
-    position: absolute;
-    top: 5%;
-    left: 50%;
-    transform: translate(-50%, 0);
-    background: rgba(255, 255, 255, 0.95);
-    box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.1);
+  body .wrapper {
+  
+    width: 90% ;
+
   }
 
 }
